@@ -1,7 +1,3 @@
-TeSidrah builds complete systems — frontend, automation, security, infrastructure, and intelligence, treated as one connected whole instead of separate specialties.
-
-**Currently working on:** frontend fundamentals through Frontend Mentor challenges, working from Newbie toward Junior level.
-
-**Pinned work below is proof of work, not a full list of everything built — early-stage by design, not by accident.**
-
+Building toward automation and frontend systems — currently two paths, both early and both real.
+Currently working on: client-facing automation tools (n8n, Python) and frontend fundamentals through Frontend Mentor, Newbie → Junior.
 📫 Reach out: Tesidrah@proton.me
